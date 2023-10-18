@@ -3,11 +3,11 @@ Easiest possible way to install coreboot and me_cleaner on Thinkpads (t430, t440
 
 The only easiest way is to buy a corebooted device on ebay, a System76 device (there are other brands like Prism, they had controversy on disabling vs neutralizing IME, beware, read and always verify with intelmetool below). 
 
-Get the status of your Intel ME: https://github.com/corna/me_cleaner/wiki/Get-the-status-of-Intel-ME
+Get the status of your Intel ME: 
 
-Tested on over dozens of thinkpads
+https://github.com/corna/me_cleaner/wiki/Get-the-status-of-Intel-ME
 
-This tutorial is based on the incredible work of:
+This tutorial is tested on over dozens of thinkpads and based on the incredible work of:
 
 - Martin Kepplinger Skulls
 

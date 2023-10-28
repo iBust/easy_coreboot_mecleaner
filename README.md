@@ -1,7 +1,7 @@
 # easy_coreboot_mecleaner
 Easiest possible way to install coreboot and me_cleaner on Thinkpads (t430, t440p, t530, w530, x230, x230t) for non-technical users.
 
-The only easiest way is to buy a corebooted device on ebay, a System76 device (there are other brands like Prism, they had controversy on disabling vs neutralizing IME, beware, read and always verify with intelmetool below). 
+The only easiest way is to buy a corebooted device on ebay or from System76, Prism, NitroKey, FSF...
 
 Get the status of your Intel ME: 
 
@@ -25,3 +25,5 @@ Before starting you need the following:
 4. Breadboard Jumper Wires (Female/Female)
 5. Keyboard/Mouse (USB or Bluetooth)
 6. Screen with an HDMI cable
+
+TBC
